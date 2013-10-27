@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Neuver
+Comment=A modern flatter theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Neuver
+MetacityTheme=Neuver
+ButtonLayout=:minimize,maximize,close
