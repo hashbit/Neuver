@@ -1,7 +1,7 @@
 Neuver Theme
 ======
 
-Neuver is a super flat linux theme for folks who hate too much borders and curves. The theme is based on the super awesome Numix Theme (numixproject.org). It works best with Gnome and Unity but supports XFCE and Openbox too.
+Neuver is a super flat linux theme for anyone who has preference for ultra minimalistic looks. Neuver is based on the super awesome Numix Theme (numixproject.org). It works best with Gnome and Unity but supports XFCE and Openbox too.
 
 ![alt tag](https://raw.github.com/hashbit/neuver/master/screenshot.png)
 
